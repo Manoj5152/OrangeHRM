@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-06T17:24:49 IST" name="Default suite" finished-at="2022-05-06T17:25:18 IST" duration-ms="29197">
+    <groups>
+    </groups>
+    <test started-at="2022-05-06T17:24:49 IST" name="Default test" finished-at="2022-05-06T17:25:18 IST" duration-ms="29197">
+      <class name="DataProvider.Login_Panel">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:24:49 IST" name="OpenBrowser" finished-at="2022-05-06T17:25:01 IST" duration-ms="11968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="logindata(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:01 IST" name="logindata" data-provider="logindata" finished-at="2022-05-06T17:25:08 IST" duration-ms="7044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aawfa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wfWAFWFR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method signature="logindata(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:08 IST" name="logindata" data-provider="logindata" finished-at="2022-05-06T17:25:14 IST" duration-ms="6074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AD&nim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[)wq2345(]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method signature="logindata(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:14 IST" name="logindata" data-provider="logindata" finished-at="2022-05-06T17:25:16 IST" duration-ms="1189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@dmin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AdADad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method signature="logindata(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:16 IST" name="logindata" data-provider="logindata" finished-at="2022-05-06T17:25:16 IST" duration-ms="397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ewr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdsafaf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method signature="logindata(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:16 IST" name="logindata" data-provider="logindata" finished-at="2022-05-06T17:25:16 IST" duration-ms="333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[d1BnR@1eBX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindata -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:DataProvider.Login_Panel@4ac3c60d]" started-at="2022-05-06T17:25:16 IST" name="CloseBrowser" finished-at="2022-05-06T17:25:18 IST" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- DataProvider.Login_Panel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
