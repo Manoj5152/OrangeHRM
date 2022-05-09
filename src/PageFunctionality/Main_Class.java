@@ -1,14 +1,12 @@
 package PageFunctionality;
 
-import java.io.IOException;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Main_Class {
 WebDriver d;
-	public static void main(String[] args) throws InterruptedException, IOException {
+	public static void main(String[] args) throws InterruptedException   {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\sanjais\\Selenium Jar\\chromedriver.exe");
 		WebDriver d = new ChromeDriver();
 		d.get("http://keshavaraj7-trials7401.orangehrmlive.com/");

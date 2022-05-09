@@ -12,9 +12,9 @@ public class Logout_fun extends Main_Class{
 	
 	
 public void By_Logout() throws InterruptedException, AWTException {
-	d.findElement(By.xpath("//i[text()='keyboard_arrow_down']")).click();
+	d.findElement(By.className("material-icons")).click();
 	Actions a=new Actions(d);
-	WebElement about = d.findElement(By.xpath("//a[text()='About']"));
+	WebElement about = d.findElement(By.id("user_menu"));
 	a.moveToElement(about).perform();
 	Robot r = new Robot();
 	r.keyPress(KeyEvent.VK_DOWN);

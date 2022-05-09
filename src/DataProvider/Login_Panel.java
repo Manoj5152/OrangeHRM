@@ -57,7 +57,6 @@ import org.testng.annotations.Test;
 				d.get("https://keshavaraj7-trials7401.orangehrmlive.com/securityAuthentication/retryLogin");
 				d.findElement(By.id("btnLogin")).click();
 			}
-			
 		}
 		
 		@BeforeTest
